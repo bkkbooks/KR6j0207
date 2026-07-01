@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6j0207/v1
+canonical_location: https://kanripo.org/bkk/KR6j0207/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 無量門破魔陀羅尼經
+  identifiers:
+    alt_id:
+    - T19n1014
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1014.xml
+    old_id: T19n1014
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0207_000.yaml, hash: 'sha256:5c1ce8b64323dd855d195159063ef0707d57913c1349beea1be0f840b2a513cf'}
+  - {seq: 1, filename: KR6j0207_001.yaml, hash: 'sha256:e77bc444f319a28bb8266ebaf6a9cbfbc0d16094b73112446336fade2859922a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0207_001.markers.yaml, hash: 'sha256:f957c061378f93664a86228b6ecc2328d5251370e4ec5362234d8107bbff55d0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0207_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4700
+  label: 無量門破魔陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:01b0fb6531fa9eb95c5a885d0d1675ef1250341fb991733f348ea31b4f9f4eff
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

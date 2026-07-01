@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0207/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無量門破魔陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1014.xml
+    old_id: T19n1014
+hash: sha256:5c1ce8b64323dd855d195159063ef0707d57913c1349beea1be0f840b2a513cf
