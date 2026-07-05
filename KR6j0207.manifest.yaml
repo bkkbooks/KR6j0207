@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0207_000.yaml, hash: 'sha256:5c1ce8b64323dd855d195159063ef0707d57913c1349beea1be0f840b2a513cf'}
-  - {seq: 1, filename: KR6j0207_001.yaml, hash: 'sha256:e77bc444f319a28bb8266ebaf6a9cbfbc0d16094b73112446336fade2859922a'}
+  - {seq: 1, filename: KR6j0207_001.yaml, hash: 'sha256:e23e848e1ed1a9d6828875a9adab1d420cd55c1c2fc4940ce9335b216402020d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0207_001.markers.yaml, hash: 'sha256:f957c061378f93664a86228b6ecc2328d5251370e4ec5362234d8107bbff55d0'}
+  - {seq: 0, role: markers, filename: assets/KR6j0207_000.markers.yaml, hash: 'sha256:12c59218bfd5bf06408e18a8b380be5bfdb58ee435c09e14fce0c7d76df3065b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0207_001.markers.yaml, hash: 'sha256:92b95697955ef8beddd5ef35e6d9dc2e425d42a2edda267503bf45a5e779ffd7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 無量門破魔陀羅尼經
   type: juan
   level: 1
-hash: sha256:01b0fb6531fa9eb95c5a885d0d1675ef1250341fb991733f348ea31b4f9f4eff
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1f0fce26210769dbb267c351c0dbd5d531b11fe5671b78f1e50a7a2836cf438f
