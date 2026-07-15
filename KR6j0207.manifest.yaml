@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0207/v1
 canonical_location: https://kanripo.org/bkk/KR6j0207/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 無量門破魔陀羅尼經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0207_000.yaml, hash: 'sha256:5c1ce8b64323dd855d195159063ef0707d57913c1349beea1be0f840b2a513cf'}
-  - {seq: 1, filename: KR6j0207_001.yaml, hash: 'sha256:e23e848e1ed1a9d6828875a9adab1d420cd55c1c2fc4940ce9335b216402020d'}
+  - {seq: 1, filename: KR6j0207_001.yaml, hash: 'sha256:0c05539e880df3889889142dffb5dac586daa43c04d0b193d6f9853cb55fde40'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0207_000.markers.yaml, hash: 'sha256:12c59218bfd5bf06408e18a8b380be5bfdb58ee435c09e14fce0c7d76df3065b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0207_001.markers.yaml, hash: 'sha256:92b95697955ef8beddd5ef35e6d9dc2e425d42a2edda267503bf45a5e779ffd7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0207_001.markers.yaml, hash: 'sha256:d5bc8e429e5cc58edd3ec7f584f800c41eea0f53b1a3b98408f2a8ccacdff3fd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 無量門破魔陀羅尼經
   type: juan
   level: 1
-hash: sha256:1f0fce26210769dbb267c351c0dbd5d531b11fe5671b78f1e50a7a2836cf438f
+hash: sha256:0ef35804fe053eb2cf79fec147d51c97af90b12ae476c58607cc3d464a4c3f0f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
